@@ -3,3 +3,5 @@ This repository contains the source code of our work on Belgium and Brussels tra
 
 * ```BERT-basedModels``` contains the code for BERT-based models for our paper.
 * ```Data``` contains the information of our constructed datasets.
+
+Please refer to the two directories for detailed information.
