@@ -10,17 +10,17 @@ from sklearn.metrics import f1_score as f1
 from transformers import BertConfig,AutoConfig, RobertaConfig
 from transformers import BertTokenizerFast, AutoTokenizer, RobertaTokenizerFast
 
-from model import JointBERT, JointRobBERT
+from model import JointEnhancedBERT, JointEnhancedRobBERT
 
 MODEL_CLASSES = {
-    'bert': (BertConfig, JointBERT, BertTokenizerFast),
-    'robbert': (RobertaConfig, JointRobBERT, RobertaTokenizerFast),
-    'mbert': (BertConfig, JointBERT, BertTokenizerFast),
-    'xlm': (RobertaConfig, JointRobBERT, RobertaTokenizerFast)
+    'bertje': (BertConfig, JointEnhancedBERT, BertTokenizerFast),
+    'robbert': (RobertaConfig, JointEnhancedRobBERT, RobertaTokenizerFast),
+    'mbert': (BertConfig, JointEnhancedBERT, BertTokenizerFast),
+    'xlm': (RobertaConfig, JointEnhancedRobBERT, RobertaTokenizerFast)
 }
 
 MODEL_PATH_MAP = {
-    'bert': 'GroNLP/bert-base-dutch-cased',
+    'bertje': 'GroNLP/bert-base-dutch-cased',
     'mbert': 'bert-base-multilingual-cased',
     'xlm': 'xlm-roberta-base',
     'robbert': 'pdelobelle/robbert-v2-dutch-base',
