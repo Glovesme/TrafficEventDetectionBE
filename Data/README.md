@@ -28,7 +28,7 @@ This directory contains the instructions on how to download and use the datasets
 - You can use this [script](https://github.com/viczong/extract_COVID19_events_from_Twitter/blob/master/download_data.py) to crawl the tweets.
 - The command on how to use the [script](https://github.com/viczong/extract_COVID19_events_from_Twitter/blob/master/download_data.py) can be found [here](https://github.com/viczong/extract_COVID19_events_from_Twitter#download-tweets-and-preprocessing).
 
-#### acknowledgement
+#### Acknowledgement
 https://github.com/viczong/extract_COVID19_events_from_Twitter/blob/master/download_data.py
 
 https://github.com/viczong/extract_COVID19_events_from_Twitter#download-tweets-and-preprocessing
