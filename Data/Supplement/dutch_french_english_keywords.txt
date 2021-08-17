@@ -1,0 +1,18 @@
+Dutch keywords = ['snelweg', 'geblokkeerd', 'route', 'station', 'bouw', 'botsing', 'verkeer', 'autobaan', 'voertuig', 'oprit', 'Ring', 'R0', 
+		  'incident', 'ongeluk', 'congestie', 'voertuigen', 'vertraging', 'vrachtwagen', 'tol', 'vernietigd', 'hellingen', 'vastgelopen', 
+		  'blokkeren', 'ringweg', 'delijn', 'stibmivb', 'sncb', 'bus', 'trein', 'tram', 'metro', '#delijn', '#stibmivb', '#sncb', '@delijn', 
+		  '@stibmivb', '@sncb','Vijfhoek', 'geparkeerd', 'fout geparkeerd', 'strook', 'stroken', 'laan', 'lanen', 'straat', 'straten', 'obstakel', 
+		  'obstakelen', 'gesloten', 'werk', 'werken', 'dode', 'doden', 'gewond', 'gewonden', 'wegwerkzaamheden', 'botsingen', 'ongeval', 'ongevalen']
+
+French keywords = ['autoroute', 'bloqué', 'voie', 'station', 'construction', 'crash', 'Ring', 'R0', 'trafic', 'autoroute', 'véhicule', 'rampe', 'incident', 'accident', 'congestion', 
+                   'véhicules', 'retard', 'camion', 'renversé', 'rampes', 'collision',  'blocage', 'delijn', 'stibmivb', 'sncb', 'bus', 'train', 'tram', 'metro', '#delijn', '#stibmivb', '#sncb', '@delijn', '@stibmivb', '@sncb', '@elkvdbrandt', 
+		   '@MobirisFr', '@BXLmobilite', 'BoisdelaCambre', '@BartDhondt', 'garées', 'obstacles', 'Petiteceinture', 'Moyenneceinture', 'Pentagone', '#malgaré', 'malgarées', 'garé',
+		   '#GCUM', 'bande', 'bandes', 'rue', 'rues', 'obstrué', 'obstrués', 'obstacle','fermé', 'fermées', 'travaux', 'mort', 'mortes', 'blessé', "blessées", 'accrochage']
+
+English keywords= ['highway', 'blocked', 'lane', 'station', 'construction', 'crash', 'traffic', 'turnpike', 'vehicle', 'ramp', 'incident', 'accident', 'congestion', 
+                   'vehicles', 'delay', 'truck', 'toll', 'overturned', 'ramps', 'collision', 'stalled', 'blocking', 'beltway',  'delijn', 'stibmivb', 'sncb', 'bus', 'train', 'tram', 
+		   'metro', '#delijn', '#stibmivb', '#sncb', '@delijn', '@stibmivb', '@sncb', 'Ring', 'R0']
+
+
+
+ 
